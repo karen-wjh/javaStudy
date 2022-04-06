@@ -50,4 +50,26 @@ public class Main {
         System.out.println(sum); // -2147483641
     }
 }
+//四舍五入
+
+double d = 2.6;
+int n = (int) (d + 0.5);
+System.out.println(n);
+}
+}
+自增自减运算
+public static void main(String[]args){
+    int n = 3300
+    n++;
+    n--;
+    int y =100 + (n++)+(n--);
+    System.out.println(y);
+}public
+}
+4种类型
+n++   n--   ++n   --n 
+n++    n=n+1
+n--    n=n-1 
+++n    n=
+--n    n=
 

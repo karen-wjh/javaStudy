@@ -9,9 +9,19 @@ public class test3 {
     }
 }*/
 //四舍五入
-
+/*
 double d = 2.6;
 int n = (int) (d + 0.5);
 System.out.println(n);
 }
 }
+*/
+    int n = 3300;
+    n++;
+    int y =100 + (n++);
+    int z =100 + (++n);
+    System.out.println(y);
+    System.out.println(z);
+}
+}
+
