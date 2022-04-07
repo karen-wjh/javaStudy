@@ -55,14 +55,54 @@ public class kadiwh{
 }
     }
     */
-    //字符串连接
-
+    //字符串连接1
+/*
     public class kadiwh{
         public static void main(String[] args) {
+        
             String s1 = "Hello";
             String s2 = "world";
             String s = s1 + " " + s2 + "!";
             System.out.println(s);
         }
     }  
-    
+*/
+//字符串连接2
+/*
+public class kadiwh {
+    public static void main(String[] args) {
+        int age = 25;
+        String s = "age is " + age;
+        System.out.println(s);
+    }
+} 
+*/
+/*
+public class kadiwh  {
+    public static void main(String[] args) {
+        String s = "hello";
+        String t = s;
+        s = "world";
+        System.out.println(t); // t是"hello"还是"world"?
+    }
+}
+//t =hello
+
+*/
+public class kadiwh {
+    public static void main(String[] args) {
+        int a = 65;
+        int b = 66;
+        int c = 67;
+      //  String s ="72"+" "+"105"+" " +"65281";
+ // FIXME:
+        String str1 = "\u0065\u0066\u0067";
+        StringBuffer str2 = new StringBuffer();
+        str2.append((char)a);
+        str2.append((char)b);
+        str2.append((char)c);
+        //String s = a + b + c;
+        System.out.println(str1);
+        System.out.println(str2);
+    }
+}
