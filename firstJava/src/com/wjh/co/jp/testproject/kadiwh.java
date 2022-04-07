@@ -24,6 +24,7 @@ public class kadiwh {
 }
 */
 //求根公式
+/*
 public class kadiwh {
     public static void main(String [] args){
         double a = 1.0;
@@ -40,3 +41,28 @@ System.out.println(f);
 
     }
 }
+*/
+//三元运算
+//判断这个年龄是不是小学生
+/*
+public class kadiwh{
+    public static void main(String[] args){
+        int age = 7 ;
+       boolean isPrimaryStudent = (age>6 && age <11);
+
+// boolean isprimarystudent = ???;\
+   System.out.println(isPrimaryStudent);
+}
+    }
+    */
+    //字符串连接
+
+    public class kadiwh{
+        public static void main(String[] args) {
+            String s1 = "Hello";
+            String s2 = "world";
+            String s = s1 + " " + s2 + "!";
+            System.out.println(s);
+        }
+    }  
+    
