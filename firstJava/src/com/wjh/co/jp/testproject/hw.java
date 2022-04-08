@@ -8,7 +8,7 @@ public class hw{
     }
 }
 */
-
+/*
 import java.text.StringCharacterIterator;
 
 public class hw{
@@ -26,4 +26,14 @@ public class hw{
         System.out.println(s);
     }
 }
+*/
 
+
+
+public class hw{
+    public static void main(String[]args){
+        int[] n = new int
+System.out.println(sum);
+
+    }
+}
