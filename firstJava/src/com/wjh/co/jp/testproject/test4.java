@@ -15,18 +15,12 @@ public class test4{
 */
 
 public static void main(String[] args){
-  int n = -100;
-  int x = n >= 0 ? n * -n;
-
-  System.out.println(x);
+  double d = 3.1415926;
+  int n = 12345000;
+  System.out.printf("%.2f\n", d); // 显示两位小数3.14
+  System.out.printf("%.4f\n", d); // 显示4位小数3.1416
+  System.out.printf("%.5f\n", d); //3.14159
+  System.out.printf("n=%d, hex=%08x", n, n); // 注意，两个%占位符必须传入两个
+ 
 }
-
-
-
-
-
-/*
-public static void main 
-public static void main 
-public static void main 
-        
+}
