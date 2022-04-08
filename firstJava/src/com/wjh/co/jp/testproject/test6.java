@@ -1,6 +1,6 @@
 package com.wjh.co.jp.testproject;
 
-public class hhh{
+public class test6{
   
   /*  public static void main(String[] args){
         int n = 3300;

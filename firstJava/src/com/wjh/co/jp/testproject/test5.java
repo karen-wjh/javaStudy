@@ -89,7 +89,7 @@ public class kadiwh  {
 //t =hello
 
 */
-public class kadiwh {
+public class test5 {
     public static void main(String[] args) {
         int a = 65;
         int b = 66;
