@@ -6,7 +6,7 @@ package com.wjh.co.jp.testproject;
 
 import java.util.Scanner;
 
-public class aizu4 {
+public class aizuTP1_4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();

@@ -8,7 +8,7 @@ package com.wjh.co.jp.testproject;
 
 import java.util.Scanner;
 
-public class aizu3{
+public class aizuTP1_3{
     public static void main(String[] args) {
         Scanner sc =new Scanner(System.in);
         int D =sc.nextInt();
