@@ -1,15 +1,13 @@
 
 package com.wjh.co.jp.testproject;
 
-import 
+import java.util.Scanner;
 
-
-
-
-
-public class test7s {
+public class test7s{
     public static void main(String[] args) {
         method();
+    }
+    private static void method() {
     }
     public static void main() {
         Scanner sc = new Scanner(System.in);

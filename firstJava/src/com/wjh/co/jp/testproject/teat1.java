@@ -1,7 +1,7 @@
 package com.wjh.co.jp.testproject;
 
 import java.util.Scanner;
-
+/*
 public class teat1 {
     public static void main(String[] args) {
         hw ();
@@ -10,7 +10,8 @@ public class teat1 {
         Scanner sc = new Scanner (System.in);
         int n =sc.nextInt();
         int[]str =new int[n];
-        for(int i =0;i<n;i++);{
+        for(int i =0;i<n;i++);int i;
+        {
             int a = sc. nextInt() ;
             str[ i ]= a
         ;
@@ -37,3 +38,4 @@ System.out.println(z);
 
     }
 }
+:*/

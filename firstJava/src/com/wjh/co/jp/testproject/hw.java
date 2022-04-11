@@ -30,10 +30,3 @@ public class hw{
 
 
 
-public class hw{
-    public static void main(String[]args){
-        int[] n = new int
-System.out.println(sum);
-
-    }
-}
