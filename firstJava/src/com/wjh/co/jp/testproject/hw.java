@@ -8,7 +8,7 @@ public class hw{
     }
 }
 */
-/*
+
 import java.text.StringCharacterIterator;
 
 public class hw{
@@ -26,7 +26,6 @@ public class hw{
         System.out.println(s);
     }
 }
-*/
 
 
 
