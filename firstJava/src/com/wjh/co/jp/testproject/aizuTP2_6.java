@@ -32,6 +32,9 @@ public class aizuTP2_6 {
         sum = sum - min;
         return sum;
 
+    
+
+        
     }
 
     private  int[]  getInput(int number){
