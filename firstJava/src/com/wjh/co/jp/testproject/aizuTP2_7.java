@@ -16,7 +16,6 @@ public class aizuTP2_7 {
         int d = sc.nextInt ();
         int e = sc.nextInt ();
         int f = sc.nextInt ();
-        int t;
         // if(e<f){
         //     t=e;e=f;f=t;
         // }
@@ -33,7 +32,6 @@ public class aizuTP2_7 {
         // System.out.println(i);
         System.out.println(max + sum);
         System.out.println (Arrays.toString(ns));
-        System.out.println();
     
     }
 
