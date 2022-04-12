@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class hc {
     public static void main(String[] args) {
-            /*  
+              
         //do while
         int sum = 0;
                 int m = 20;
@@ -19,16 +19,27 @@ public class hc {
                 
                 System.out.println(sum);
 
-                */
-
-                //for
-                int sum = 0;
-                for(int i=1; i<=100; i++){
-                    sum = sum + i;
-                }
-                System.out.println(sum);
             }
         }
         
+
+
+
+
+
+        int[] ns ={a,b,c,d};
+        int x = a;
+        for(int i = 0 ;i<4;i++){
+            if(x>ns[i]){
+                x=ns[i];int sum =0;
+        for(int i =0;i<4;i++){
+            if(ns[i]!=x){
+                sum +=ns[i];
+            }
+        }
+
+            }
+        }
+
     
 
