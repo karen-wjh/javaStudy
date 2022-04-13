@@ -3,7 +3,7 @@
 */
 //问题大小关系
 
-package com.wjh.co.jp.testproject;
+package com.wjh.co.jp.testproject.aizu2;
 
 import java.util.Scanner;
 public class aizuTP2_1{

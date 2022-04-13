@@ -2,7 +2,7 @@
 */
 //已知秒数和求时间对应的 时分秒
 
-package com.wjh.co.jp.testproject;
+package com.wjh.co.jp.testproject.aizu1;
 
 import java.util.Scanner;
 

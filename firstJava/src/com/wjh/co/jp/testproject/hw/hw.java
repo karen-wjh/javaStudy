@@ -1,4 +1,4 @@
-package com.wjh.co.jp.testproject;
+package com.wjh.co.jp.testproject.hw;
 /*
 public class hw{
     public static void main(String[] argw){

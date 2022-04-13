@@ -5,7 +5,7 @@ https://onlinejudge.u-aizu.ac.jp/courses/lesson/2/ITP1/2/ITP1_2_Bpackage com.wjh
 
 //范围问题
 
-package com.wjh.co.jp.testproject;
+package com.wjh.co.jp.testproject.aizu2;
 import java.util.Scanner;
 
 public class aizuTP2_4 {

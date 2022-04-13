@@ -1,4 +1,4 @@
-package com.wjh.co.jp.testproject;
+package com.wjh.co.jp.testproject.hw;
 
 import java.util.Scanner;
 //do while

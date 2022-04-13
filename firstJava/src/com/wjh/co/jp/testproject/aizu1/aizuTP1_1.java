@@ -3,7 +3,7 @@
 */
 //平分问题
 
-package com.wjh.co.jp.testproject;
+package com.wjh.co.jp.testproject.aizu1;
 import java.util.Scanner;
 public class aizuTP1_1{
     public static void main(String[] args) {

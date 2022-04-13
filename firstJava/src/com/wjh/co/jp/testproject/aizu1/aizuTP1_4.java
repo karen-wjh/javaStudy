@@ -2,7 +2,7 @@
 */
 
 //合计时间问题
-package com.wjh.co.jp.testproject;
+package com.wjh.co.jp.testproject.aizu1;
 
 import java.util.Scanner;
 

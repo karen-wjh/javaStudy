@@ -4,7 +4,7 @@ https://onlinejudge.u-aizu.ac.jp/challenges/sources/PCK/Prelim/0317
 
 //蚂蚁搬家问题
 
-package com.wjh.co.jp.testproject;
+package com.wjh.co.jp.testproject.aizu1;
 
 import java.util.Scanner;
 

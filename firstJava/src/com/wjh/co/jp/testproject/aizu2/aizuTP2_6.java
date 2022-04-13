@@ -1,4 +1,4 @@
-package com.wjh.co.jp.testproject;
+package com.wjh.co.jp.testproject.aizu2;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -17,17 +17,19 @@ public class aizuTP2_6 {
         
         // }
 
-        int input1 = getInput(4); // 获取前四个数据
-        int input2 = getInput(2); // 获取后两个数据
+        int[] input1 = getInput(4); // 获取前四个数据
+        int[] input2 = getInput(2); // 获取后两个数据
         System.out.print(sumAll(input1) + sumAll(input2));
     }
 
-    private int sumAll(int[] data){
+    private static int sumAll(int[] data){
 
         int sum = 0;
         int min = 0;
-        for num in data:
-            if num < min : min = num;
+        //for num in data:
+          
+        
+        if num < min : min = num;
             sum = sum + num
         sum = sum - min;
         return sum;
@@ -37,7 +39,7 @@ public class aizuTP2_6 {
         
     }
 
-    private  int[]  getInput(int number){
+    private static  int[]  getInput(int number){
         List<int> output = new ArrayList<>();
 
         return output;

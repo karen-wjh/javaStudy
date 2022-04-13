@@ -3,7 +3,7 @@
 //比大小
 
 
-package com.wjh.co.jp.testproject;
+package com.wjh.co.jp.testproject.aizu2;
 
 import java.util.Scanner;
 
