@@ -13,11 +13,12 @@ public class aizuTP1_4 {
         int b = sc.nextInt();
         int c = sc.nextInt();
         int d = sc.nextInt();
-        int s =  (a+b+c+d)% 3600 / 60;
-        int y =(a+b+c+d)%60;
+        int s = ( a + b + c + d) %  3600 / 60;
+        int y = ( a + b + c + d) % 60;
         System.out.println(s);
         System.out.println(y);
 
     
     }    
 }
+s

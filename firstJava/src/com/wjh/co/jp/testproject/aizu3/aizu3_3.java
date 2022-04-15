@@ -7,7 +7,8 @@ import java.util.Scanner;
 
 public class aizu3_3 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);public static void main(String[] args) {
+        }
       //  int x = sc.nextInt();
        // int y = sc.nextInt();
         while (true){

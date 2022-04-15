@@ -58,6 +58,6 @@ public class aizuTP2_5{
         if ( a > b ){
             t = a; a = b; b = t;
         }
-        System.out.println(a + " " + b + " " + c);
+        System.out.println( a + " " + b + " " + c );
     }
 }

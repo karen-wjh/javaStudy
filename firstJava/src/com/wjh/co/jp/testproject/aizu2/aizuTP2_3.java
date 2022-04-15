@@ -1,5 +1,5 @@
-/ * https://onlinejudge.u - aizu.ac.jp/challenges/sources/JOI/Prelim/0630
- * /
+/* https://onlinejudge.u - aizu.ac.jp/challenges/sources/JOI/Prelim/0630
+ */
 //微波炉问题
 
 package com.wjh.co.jp.testproject.aizu2;
@@ -16,9 +16,9 @@ public class aizuTP2_3 {
         int E = sc.nextInt();
         if (A < 0){
             System.out.println((0  -  A) * C + D + (B - 0) * E);
-        } else if (A == 0 ){
+        } else if ( A == 0 ){
             System.out.println(D + (B - 0) * E);
-        }else  if(A > 0){
+        }else  if( A > 0 ){
             System.out.println((B - A) * E);
         } 
     }
