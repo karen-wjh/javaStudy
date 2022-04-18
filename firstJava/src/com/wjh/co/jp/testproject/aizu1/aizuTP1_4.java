@@ -21,4 +21,3 @@ public class aizuTP1_4 {
     
     }    
 }
-s

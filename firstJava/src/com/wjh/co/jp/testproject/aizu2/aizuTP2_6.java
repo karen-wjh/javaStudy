@@ -30,7 +30,7 @@ public class aizuTP2_6 {
           
         
         if num < min : min = num;
-            sum = sum + num
+            sum = sum + num;
         sum = sum - min;
         return sum;
 
