@@ -1,4 +1,4 @@
-https://onlinejudge.u-aizu.ac.jp/courses/lesson/2/ITP1/2/ITP1_2_D
+//https://onlinejudge.u-aizu.ac.jp/courses/lesson/2/ITP1/2/ITP1_2_D
 
 //长方形中的圆在不在长方形里面
 //如果在长方形里面就是yes 否则就是no

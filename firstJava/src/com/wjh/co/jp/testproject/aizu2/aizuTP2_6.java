@@ -1,8 +1,10 @@
-package com.wjh.co.jp.testproject.aizu2;
-
+//package com.wjh.co.jp.testproject.aizu2;
+/*
 import java.util.ArrayList;
 import java.util.Scanner;
+/*
 
+ *//*
 public class aizuTP2_6 {
     public static void main(String[] args) {
         // Scanner sc  =  new Scanner(System.in);
@@ -16,7 +18,7 @@ public class aizuTP2_6 {
         // if (a>b&&b>c&&c>d){
         
         // }
-
+/*
         int[] input1 = getInput(4); // 获取前四个数据
         int[] input2 = getInput(2); // 获取后两个数据
         System.out.print(sumAll(input1) + sumAll(input2));
@@ -28,7 +30,7 @@ public class aizuTP2_6 {
         int min = 0;
         //for num in data:
           
-        
+      /*
         if num < min : min = num;
             sum = sum + num;
         sum = sum - min;
@@ -45,3 +47,4 @@ public class aizuTP2_6 {
         return output;
     }
 }
+/*/
