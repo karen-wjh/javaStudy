@@ -1,8 +1,4 @@
-package com.wjh.co.jp.testproject.test;
-
-import java.time.Year;
-
-import javax.net.ssl.SSLContext;
+package com.wjh.co.jp.testproject.a_test;
 
 public class test2 {
     /*

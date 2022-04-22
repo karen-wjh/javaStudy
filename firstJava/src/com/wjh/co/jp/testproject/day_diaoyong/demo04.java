@@ -1,4 +1,4 @@
-package com.wjh.co.jp.testproject.test;
+package com.wjh.co.jp.testproject.day_diaoyong;
 /*比较数据是否相等
 * 参数分别为两个byte，两个short，两个int，两个long类型
 * 并在main方法中进行测试*/

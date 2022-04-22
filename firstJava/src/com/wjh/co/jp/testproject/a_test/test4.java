@@ -1,6 +1,4 @@
-package com.wjh.co.jp.testproject.test;
-
-import javax.net.ssl.SSLSessionBindingListener;
+package com.wjh.co.jp.testproject.a_test;
 
 //短路运算
 public class test4{

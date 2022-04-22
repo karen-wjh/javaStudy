@@ -1,6 +1,4 @@
-package com.wjh.co.jp.testproject.test;
-
-import java.net.SocketPermission;
+package com.wjh.co.jp.testproject.a_test;
 
 /*
 public class firstTest {

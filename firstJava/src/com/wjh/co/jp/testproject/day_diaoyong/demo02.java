@@ -1,4 +1,4 @@
-package com.wjh.co.jp.testproject.test;
+package com.wjh.co.jp.testproject.day_diaoyong;
 
 public class demo02 {
     public static void main(String[] args) {

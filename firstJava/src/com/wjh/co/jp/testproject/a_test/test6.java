@@ -1,4 +1,4 @@
-package com.wjh.co.jp.testproject.test;
+package com.wjh.co.jp.testproject.a_test;
 
 public class test6{
   

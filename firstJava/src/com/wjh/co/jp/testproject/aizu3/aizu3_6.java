@@ -1,4 +1,4 @@
-package com.wjh.co.jp.testproject.hw;
+package com.wjh.co.jp.testproject.aizu3;
 /*
 public class hw{
     public static void main(String[] argw){
@@ -9,9 +9,7 @@ public class hw{
 }
 */
 
-import java.text.StringCharacterIterator;
-
-public class hw{
+public class aizu3_6 {
     public static void main(String[]args){
         int a =72;
         int b =105;

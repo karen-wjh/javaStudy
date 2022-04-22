@@ -1,6 +1,6 @@
-package com.wjh.co.jp.testproject.test;
+package com.wjh.co.jp.testproject.day_diaoyong;
 
-import System.out.println;
+
 
 /*定义一个方法来求出1-100之间所有的数字和
 * */

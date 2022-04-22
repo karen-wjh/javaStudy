@@ -1,8 +1,6 @@
-package com.wjh.co.jp.testproject.test;
+package com.wjh.co.jp.testproject.a_test;
 
-import java.util.Scanner;
-
-public class he11 {
+public class test7 {
     public static void main(String[] args) {
         for (int hour = 0; hour < 24; hour++) {
             for (int min = 0; min < 60; min++) {

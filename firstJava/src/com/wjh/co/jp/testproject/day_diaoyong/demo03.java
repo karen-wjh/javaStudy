@@ -1,8 +1,8 @@
-package com.wjh.co.jp.testproject.test;
+package com.wjh.co.jp.testproject.day_diaoyong;
 
 import java.util.Scanner;
 
-public class demo3 {
+public class demo03 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();

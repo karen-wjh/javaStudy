@@ -1,8 +1,9 @@
-package com.wjh.co.jp.testproject.hw;
+package com.wjh.co.jp.testproject.aizu3;
+//选课问题
 
 import java.util.Scanner;
 
-public class xuanke {
+public class aizu3_7 {
     private static int i;
     public static void main(String[] args) {
 method();

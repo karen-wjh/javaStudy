@@ -1,4 +1,4 @@
-package com.wjh.co.jp.testproject.test;
+package com.wjh.co.jp.testproject.day_shuzu;
 /*静态数组 , 静态初始化
 在创建数组的时候，不指定数据个数多少，而是将数据内容进行指定
 基本格式:
@@ -14,7 +14,7 @@ package com.wjh.co.jp.testproject.test;
 如果不确定数组的具体内容，用动态初始化
 否则已经确定具体内容，用静态初始化
 */
-public class demo06 {
+public class shuzu02 {
     public static void main(String[] args) {
         //创建一个数组是，里面是int数字，具体为5 15 25
         //基本格式的静态初始化
