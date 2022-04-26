@@ -1,4 +1,4 @@
-package com.wjh.co.jp.testproject.aizu2;
+package com.wjh.co.jp.testproject.a_test;
 
 public class HelloWorld {
     public static void main(String[] args) {
