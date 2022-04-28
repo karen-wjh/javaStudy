@@ -6,13 +6,14 @@ import java.util.Scanner;
 
 public class aizu4_2 {
     public static void main(String[] args) {
-        Scanner num = new Scanner(System.in);
-        double r = num.nextDouble();
-        double a = r*r*3.141592653589;
-        double b = 2*r*3.141592653589;
-        System.out.printf("%.6f",a);
-        System.out.print(" ");
-        System.out.printf("%.6f",b);
+        try (Scanner num = new Scanner(System.in)) {
+            double r = num.nextDouble();
+            double a = r*r*3.141592653589;
+            double b = 2*r*3.141592653589;
+            System.out.printf("%.6f",a);
+            System.out.print(" ");
+            System.out.printf("%.6f",b);
+        }
 
     }
     

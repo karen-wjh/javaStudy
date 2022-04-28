@@ -17,7 +17,6 @@ public static void main(String[] args) {
     int b = 66;
     int c = 67;
   //  String s ="72"+" "+"105"+" " +"65281";
-// FIXME:
     String str1 = "\u0065\u0066\u0067";
     StringBuffer str2 = new StringBuffer();
     str2.append((char)a);

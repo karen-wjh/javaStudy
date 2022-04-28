@@ -7,12 +7,13 @@ import java.util.Scanner;
 
 public class aizu4_1 {
     public static void main(String[] args) {
-    Scanner num = new Scanner(System.in);
+    try (Scanner num = new Scanner(System.in)) {
         int a = num.nextInt();
         int b = num.nextInt();
         System.out.print(a / b +" " );
         System.out.print(a % b + " ");
      //  System.out.println("============");
        System.out.printf("%.5f" ,((double)a / (double) b) );
+    }
 }
     }
