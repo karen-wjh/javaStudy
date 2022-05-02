@@ -6,18 +6,6 @@ import java.util.Scanner;
 
 public class jv {
     public static void main(String[] args) throws Exception {
-        // System.out.println("Hello, World!");
-        // int[] arrayInt = {3, 5, 6, 7};
-        // for (int num : arrayInt){
-        //     System.out.println(num);
-        // }
-        // System.out.println("hello".toUpperCase().equals("Hello, World!".substring(0, 5).toUpperCase()));
-        Integer a = 10;
-        Integer b = 10;
-        Integer c = 1000;
-        Integer d = 1000;
-        System.out.printf(" %b,  %b \n", a==b, c==d);
-
 
         // 定义Input Handle
 		System.out.print("请输入最新数据：");
