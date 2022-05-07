@@ -1,8 +1,4 @@
-package com.wjh.co.jp.testproject;
-
-import java.time.Year;
-
-import javax.net.ssl.SSLContext;
+package com.wjh.co.jp.testproject.a_test;
 
 public class test2 {
     
@@ -60,3 +56,4 @@ public static void main(String[] args)
               String s = s1 + " " +s2 + "!";
               System.out.println(s);
           }
+        }

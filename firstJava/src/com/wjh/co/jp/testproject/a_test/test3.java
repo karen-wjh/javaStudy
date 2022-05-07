@@ -1,4 +1,4 @@
-package com.wjh.co.jp.testproject;
+package com.wjh.co.jp.testproject.a_test;
 public class test3 {
     public static void main(String[] args){
       

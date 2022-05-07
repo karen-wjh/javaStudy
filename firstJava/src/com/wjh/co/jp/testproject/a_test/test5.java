@@ -1,6 +1,4 @@
-package com.wjh.co.jp.testproject;
-
-import javax.xml.crypto.dsig.spec.C14NMethodParameterSpec;
+package com.wjh.co.jp.testproject.a_test;
 
 /*
 public class kadiwh {
@@ -95,7 +93,6 @@ public class test5 {
         int b = 66;
         int c = 67;
       //  String s ="72"+" "+"105"+" " +"65281";
- // FIXME:
         String str1 = "\u0065\u0066\u0067";
         StringBuffer str2 = new StringBuffer();
         str2.append((char)a);

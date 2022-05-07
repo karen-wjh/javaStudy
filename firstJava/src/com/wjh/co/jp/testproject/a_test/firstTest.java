@@ -1,6 +1,6 @@
-package com.wjh.co.jp.testproject;
+package com.wjh.co.jp.testproject.a_test;
 
-
+/*
 public class firstTest {
     public static void Main(String [] args) {
         
@@ -31,6 +31,7 @@ double d2 = -1.79e308;
 double d3 = 4.9e-324; // 科学计数法表示的4.9x10^-324
 
 */
+/*
 
 //整数运算 求i和n的数值
 
@@ -79,7 +80,7 @@ n--    n=n-1
 
 char cl＝A
 */
-
+/*
 //浮点数运算误差
 public class Main{
     public static void main(String[] args){
@@ -99,6 +100,7 @@ pingfang公式 a*a
 求和公式 (1+n)*n/2
 求平方根Math.sqrt()
 */
+/*
 
 public class kadiwh {
     public static void main(String [] args){
@@ -180,3 +182,40 @@ public class kadiwh{
             System.out.println(s);
         }
     }  
+
+    */
+
+    //数组类型
+/*
+    int n1 = 68;
+    int n2 = 79;
+    int n3 = 91;
+    int n4 = 85;
+    int n5 = 62;
+    */
+    /*
+    public class firstTest{
+        public static void main(String [] agrs){
+            String[] names = {"ABC", "XYZ", "zoo"};
+            String s = names[0];
+            String a = names[1];
+            names[0] = "cat";
+            names [1] = "hhh";
+            System.out.println(s); // ABC
+            System.out.println(names[0]);//cat
+            System.out.println(a);//XYZ
+            System.out.println(names[1]);//hhh
+        }
+    }
+        /*
+         int[] ns =new int[5];
+         ns [0] = 68;
+         ns [1] = 79;
+         ns [2] = 91;
+         ns [3] = 85;
+         ns [4] = 62;
+         System.out.println(ns.length);
+
+
+        }
+    }/*?/*/
