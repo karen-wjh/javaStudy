@@ -48,7 +48,6 @@ public class aizuTP2_5{
         int b = sc.nextInt();
         int c = sc.nextInt();
         int t;
-
         if ( a > b ){
             t = a; a = b; b = t;
         }

@@ -1,6 +1,6 @@
 
-//https://onlinejudge.u-aizu.ac.jp/challenges/sources/PCK/Prelim/0278
-
+//https://onlinejudge.u-aizu.ac.jp/maipichallenges/sources/PCK/Prelim/0278
+//泳池买票问题
 package com.wjh.co.jp.testproject.aizu3;
 
 import java.util.Scanner;

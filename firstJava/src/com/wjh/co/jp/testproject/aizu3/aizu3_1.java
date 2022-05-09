@@ -11,7 +11,7 @@ package com.wjh.co.jp.testproject.aizu3;
 public class aizu3_1 {
     public static void main(String[] args) {
         for (int i =0 ; i < 1000 ;i++ ){
-            System.out.println("kkk");
+            System.out.println("Hello World");
         }
     }
 }
