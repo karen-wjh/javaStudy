@@ -1,5 +1,7 @@
 package com.wjh.co.jp.testproject.aizu6;
-
+//https://onlinejudge.u-aizu.ac.jp/courses/lesson/2/ITP1/6/ITP1_6_B
+//扑克牌问题
+//4种花色，每种花色13张牌共计52张牌，找出缺失的扑克牌
 import java.util.Scanner;
 
 public class aizu6_2 {
