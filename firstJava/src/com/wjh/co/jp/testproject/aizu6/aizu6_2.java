@@ -37,8 +37,8 @@ public class aizu6_2 {
                   }else{
                       System.out.print("D"+" "+(j + 1));
                       System.out.println();
-                  }
-                }
+                      }
+                 }
             }
         }
     }
