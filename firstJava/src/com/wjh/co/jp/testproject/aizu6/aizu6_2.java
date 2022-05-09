@@ -29,7 +29,7 @@ public class aizu6_2 {
                   }else if(i == 1){
                       System.out.print("H"+" "+(j + 1));
                       System.out.println();
-                  }else if (i ==2){
+                  }else if (i == 2){
                       System.out.print("C"+" "+(j + 1));
                       System.out.println();
                   }else{
