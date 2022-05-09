@@ -1,5 +1,5 @@
 package com.wjh.co.jp.testproject.a_test;
-
+/*  
 public class test2 {
     
     public static void main(String[] args) {
@@ -25,7 +25,7 @@ public static void main(String[] args){
     }
         }
 */
-
+/* 
 public static void main(String[] args){
     int i = 167776589; // 00001010 00000000 00010001 01001101
         int n = 167776512; // 00001010 00000000 00010001 00000000
@@ -34,7 +34,7 @@ public static void main(String[] args){
 }
 */
 
-
+/*
 
 public static void main(String[] args)
 {
@@ -57,3 +57,4 @@ public static void main(String[] args)
               System.out.println(s);
           }
         }
+ */
