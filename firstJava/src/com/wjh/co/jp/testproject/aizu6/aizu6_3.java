@@ -17,12 +17,11 @@ public class aizu6_3 {
                 for (int k = 0; k < 10; k++) {
                     System.out.print(array[i][j][k]);
                 }
+                System.out.println();
             }
-            System.out.println();
+            if( i != 3){
+                System.out.println("####################");
             }
-        
-        if( i != 3){
-            System.out.println("####################");
         }
     }
 }
