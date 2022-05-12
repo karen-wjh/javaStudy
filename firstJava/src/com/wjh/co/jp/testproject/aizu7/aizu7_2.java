@@ -8,16 +8,16 @@ public class aizu7_2 {
         while(true){
         int n = sc.nextInt();
         int x = sc.nextInt();
-        if(n == 0 || x == 0){
+        if(n == 0 && x == 0){
             return;
         }
         int count=0;
-        for (int i = 0; i < n-2; i++) {
-            for (int j = i+1; j <n-1 ; j++) {
-                for (int k = j+1; k < n; k++) {
-                    if( (i+j+k)==x){
-                        count++;
-                      }
+        for (int i = 1; i <= n - 2; i++) {
+            for (int j = i + 1; j <= n - 1 ; j++) {
+                for (int k = j + 1; k <= n; k++) {
+                    if( (i + j + k) == x){
+                        count++;  
+                    }
                    }
                 }
              }System.out.println(count);
