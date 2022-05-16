@@ -20,7 +20,7 @@ public class aizu7_4 {
         }
         for (int i = 0; i <a; i++) {
             for (int j = 0; j <c; j++) {
-                Long sum = 0;
+                Long sum = 0 ;
                 for (int k = 0; k < b; k++) {
                     sum += list1[i][k] * list2[k][j];
                 }
