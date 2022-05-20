@@ -24,6 +24,3 @@ public class aizu3_6 {
         System.out.println(s);
     }
 }
-
-
-
